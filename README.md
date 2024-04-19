@@ -1,2 +1,2 @@
 # Computer_Network
-Contains Assignments performed in CN
+Contains TCP/UDP programming Assignments performed in CN Lab.
